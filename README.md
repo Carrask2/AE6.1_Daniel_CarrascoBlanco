@@ -13,8 +13,11 @@ El sitio web está publicado en el siguiente hosting:
 La web está compuesta por las siguientes secciones principales, accesibles desde el menú de navegación superior:
 
 Inicio: Página principal que actúa como carta de presentación, integrando un sistema de slider (carrusel) para destacar novedades y tendencias de la marca.
+
 Tienda: Catálogo interactivo de productos. Permite al usuario visualizar los modelos disponibles y gestionar la selección de artículos.
+
 Nosotros: Sección corporativa donde se expone la identidad y misión de ALL SHOES.
+
 Contacto: Espacio de comunicación que incluye un formulario de usuario para consultas personalizadas.
 
  4. Características Técnicas
